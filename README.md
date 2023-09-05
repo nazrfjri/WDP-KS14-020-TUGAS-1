@@ -1,2 +1,3 @@
-# WDP-KS14-020-TUGAS-1
-Assignment 1 | By Eka Nazar Fajriansyah
+# Assignment 1 | By Eka Nazar Fajriansyah
+Implementasi Bootstrap untuk sebuah Homepage Website
+![Alt text](image.png)
